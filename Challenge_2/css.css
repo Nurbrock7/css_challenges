@@ -1,0 +1,45 @@
+/* styles for this page */
+
+/* This is a font style for the heading and body of the Html page. */
+
+body{
+    font-family: 'Noto Serif', serif;
+    font-size: 14px;
+    line-height: 10px;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    background-color: 
+}
+
+.Heading_1{
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+p {
+    text-indent: 20px; 
+}
+
+.vertical-menu {
+    width: 200px;
+    margin-left: 20px;
+  }
+  
+  .vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: underline;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: rgb(38, 1, 202);
+    text-decoration: none;
+  }
+  
+  .vertical-menu a.active {
+    background-color: rgb(54, 58, 6);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
