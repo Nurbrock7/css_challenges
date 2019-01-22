@@ -2,7 +2,7 @@
 
 body {
 
-    background-color: lightgrey :
+    background-color:  :
 }
 
 h1 {
@@ -26,3 +26,11 @@ h4 {
 h5 {
     color: fuchsia
 }
+
+.p1 {font-family: cursive}
+
+.p2 {font-family: Georgia, 'Times New Roman', Times, serif}
+
+.p3 {font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif}
+
+.p4 {font-family: Verdana, Geneva, Tahoma, sans-serif}
