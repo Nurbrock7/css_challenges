@@ -6,7 +6,7 @@ body{
     font-family: 'Noto Serif', serif;
     font-size: 14px;
     line-height: 10px;
-    letter-spacing: 10px;
+    letter-spacing: 1px;
     word-spacing: 10px;
     background-color: 
 }
@@ -22,7 +22,7 @@ p {
 
 .vertical-menu {
     width: 200px;
-    margin-left: 20px;
+    
   }
   
   .vertical-menu a {
@@ -42,4 +42,8 @@ p {
     background-color: rgb(54, 58, 6);
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  li {
+      letter-spacing: none ;
   }
