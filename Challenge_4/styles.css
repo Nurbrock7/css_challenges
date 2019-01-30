@@ -1,0 +1,50 @@
+/* Styling of float box */
+
+/* Giving the box height and width */
+
+.container {
+    height: 200px;
+    width: 200px'
+    
+}
+
+.box_1 {
+    height: 200px;
+    width: 200px;
+    float: right;
+    display: block;
+    background-color: aqua;
+}
+
+.box_2 {
+    height: 200px;
+    width: 200px;
+    float: right;
+    display: block;
+    background-color: brown;
+}
+
+.box_3 {
+    height: 200px;
+    width: 200px;
+    float: right;
+    display: block;
+    background-color: yellow;
+}
+
+.box_3:hover{
+    background-color: blue;
+    width: 600px;
+}
+
+.box_4 {
+    height: 200px;
+    width: 200px;
+    float: right;
+    display: block;
+    background-color: teal;
+}
+
+.box_4:hover {
+    width: 50px;
+}
